@@ -25,3 +25,10 @@ git commit
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
+
+![image](https://github.com/CoderHouse-24915/React-Router-Users-Rest-Api/assets/81595307/5d864776-d9ad-4ba8-9a3d-7c7880d5537c)
+
+
+![image](https://github.com/CoderHouse-24915/React-Router-Users-Rest-Api/assets/81595307/ff7750cc-0dff-4a50-9f99-c1132e1bfa2c)
+
+
